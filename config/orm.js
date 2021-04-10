@@ -87,4 +87,3 @@ const objToSql = (ob) => {
   }
   
   module.exports = orm;
-  © 2021 GitHub, Inc.
