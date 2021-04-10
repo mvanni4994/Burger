@@ -1,9 +1,13 @@
 {
+  
   "dependencies": {
     "exphbs": "^1.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.0",
     "heroku": "^7.52.0",
     "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
