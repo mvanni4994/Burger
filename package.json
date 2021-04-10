@@ -12,5 +12,20 @@
   },
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "name": "burger",
+  "description": "## Description Tired of figuring out what burger you want to eat? The Burger application allows the user to enter a burger name and stores them to let the user decide whether they would like to eat it now, or later.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvanni4994/Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvanni4994/Burger/issues"
+  },
+  "homepage": "https://github.com/mvanni4994/Burger#readme"
 }
