@@ -21,7 +21,7 @@ Once the application has been initialized, enter a burger in the text box and se
 ## Technology Used
 npm i, Express, Express-handlebars, Heroku, Javascript, JQuery, Node, Sequal, HTML, CSS
 
-##Future Development
+## Future Development
 Update CSS to make the UI more user friendly
 
 ## License
