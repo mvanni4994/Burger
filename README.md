@@ -1,21 +1,25 @@
 # Burger [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-
+Tired of figuring out what burger you want to eat? The Burger application allows the user to enter a burger name and stores them to let the user decide whether they would
+like to eat it now, or later.
 
 Deployed App: 
+
+
 
 Github Repository: https://github.com/mvanni4994
 
 ## Instructions
+Once the application has been initialized, enter a burger in the text box and select whether you'd want to eat it now "NOMS NOW", or later "NOMS LATER". Once selected, hit the submit button and the burgers will be stored below the suspicious burger image below. If you ate it, you can select "DELETE IT!" to take it away from the list. If you're saving it for a special occasion, select "EAT IT!" when you're good and ready and it will transfer over to the "DELETE IT!" section.
 
 ## App Features
 
-![image]
+![image](views/images/screenshot.JPG)
 
 
 ## Technology Used
-
+npm i, Express, Express-handlebars, Heroku, Javascript, JQuery, Node, Sequal, HTML, CSS
 
 ## License
 
