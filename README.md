@@ -4,7 +4,7 @@
 Tired of figuring out what burger you want to eat? The Burger application allows the user to enter a burger name and stores them to let the user decide whether they would
 like to eat it now, or later.
 
-Deployed App: 
+Deployed App: https://hidden-bayou-53549.herokuapp.com/
 
 
 
@@ -21,7 +21,7 @@ Once the application has been initialized, enter a burger in the text box and se
 ## Technology Used
 npm i, Express, Express-handlebars, Heroku, Javascript, JQuery, Node, Sequal, HTML, CSS
 
-##Future Development
+## Future Development
 Update CSS to make the UI more user friendly
 
 ## License
